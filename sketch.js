@@ -5,8 +5,8 @@
 // Some variables which are used at many places
 
 // Canvas size
-let W = 800;
-let H = 600;
+let W = 600;
+let H = 400;
 
 // Number of boids
 let N = 100;
